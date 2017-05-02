@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-hermes-player",
+  "version": "1.0.0",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=7.9.0",
+    "homebridge": ">=0.4.20"
+  },
+  "description": "Uses Homebridge to control the Hermes client for Pandora",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/homebridge-hermes-player",
+  "author": "Rayzr",
+  "license": "MIT",
+  "dependencies": {
+    "node-osascript": "^2.0.0"
+  },
+  "devDependencies": {
+    "xo": "^0.18.1"
+  }
+}
